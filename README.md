@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huichen-hc&label=Profile%20views&color=0e75b6&style=flat" alt="huichen-hc" /> </p>
 
-- 🌱 I’m currently learning **Javascript,Typescript,React**
+- 🌱 I’m currently learning **Typescript,Next.js**
 
 - 💬 Ask me about **edible and poisonous mushrooms you can find in Sweden**
 
